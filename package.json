@@ -1,0 +1,23 @@
+{
+  "name": "gp-reader",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest",
+    "tw": "jest --watch"
+  },
+  "dependencies": {
+    "@types/jest": "^25.1.4",
+    "cheerio": "latest",
+    "jest": "^25.1.0",
+    "node-stream-zip": "latest",
+    "ts-jest": "^25.2.1",
+    "tsc": "^1.20150623.0",
+    "tslint": "^6.1.0",
+    "typescript": "^3.8.3"
+  },
+  "devDependencies": {
+    "@types/cheerio": "^0.22.16"
+  }
+}
